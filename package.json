@@ -1,0 +1,26 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Getting started with nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsycorp/node-starter.git"
+  },
+  "author": "fsycorp@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "pm2": "^2.10.3"
+  },
+  "bugs": {
+    "url": "https://github.com/fsycorp/node-starter/issues"
+  },
+  "homepage": "https://github.com/fsycorp/node-starter#readme"
+}
